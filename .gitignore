@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python / MLflow
+__pycache__/
+.mlruns/
+mlruns/
+
+# Unnecessary files
+ML_multivariate.ipynb
+
+# at the moment
+version_english/

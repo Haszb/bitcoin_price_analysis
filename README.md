@@ -127,7 +127,7 @@ The project uses hourly BTC/USDT price data from Binance:
 
 This project is for research and educational purposes.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is for **educational and research purposes only**. It is not intended for live trading or financial advice. Cryptocurrency trading involves significant risk of loss.
 

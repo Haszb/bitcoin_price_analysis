@@ -94,13 +94,6 @@ The project uses hourly BTC/USDT price data from Binance:
 - **Strategy**: Autoregressive multi-step prediction
 - **Constraint**: Models use only their own prior predictions for future estimates
 
-### Key Metrics
-
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- R² Score
-- Root Mean Squared Error (RMSE)
-
 ## Documentation
 
 | Document | Description |

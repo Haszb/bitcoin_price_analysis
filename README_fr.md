@@ -92,13 +92,6 @@ Le projet utilise des données de prix BTC/USDT horaires de Binance :
 - **Stratégie** : Prédiction multi-étapes auto-régressive
 - **Contrainte** : Les modèles utilisent uniquement leurs propres prédictions précédentes pour les estimations futures
 
-### Métriques Clés
-
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- R² Score
-- Root Mean Squared Error (RMSE)
-
 ## Documentation
 
 | Document | Description |
